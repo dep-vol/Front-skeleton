@@ -1,0 +1,1 @@
+# Skeleton for frontend projects with basic gulp config
